@@ -15,9 +15,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @author 李亚斌
+ * @author lonely lee
  * @date 2019/05/15 11:04
- * @since v1.1
+ * @since v1.0
  */
 @RestController
 @RequestMapping("/websocket")

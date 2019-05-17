@@ -4,9 +4,9 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author 李亚斌
+ * @author lonely lee
  * @date 2019/05/17 10:59
- * @since v1.1
+ * @since v1.0
  */
 @Configuration
 public class MessageModelProducerConfigure {

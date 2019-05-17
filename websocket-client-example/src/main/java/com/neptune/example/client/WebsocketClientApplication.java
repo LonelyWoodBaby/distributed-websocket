@@ -5,9 +5,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * @author 李亚斌
+ * @author lonely lee
  * @date 2019/05/15 10:59
- * @since v1.1
+ * @since v1.0
  */
 @SpringBootApplication
 @EnableWebSocketClient
