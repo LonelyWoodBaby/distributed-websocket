@@ -1,0 +1,10 @@
+websocket:
+  server:
+    ip: localhost
+    port: 8990
+    urlPrefix: /ws
+    runWithClient: false
+  client:
+    autoStart: false
+    clientId: testClient
+    groupId: testGroup
